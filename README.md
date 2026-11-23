@@ -30,4 +30,4 @@ To develop an interactive sales dashboard that presents business data in an easy
 
 
 ## Dashboard Preview
-![E-Commerce Sales Dashboard](Ecommerce_Dashboards.png)
+![E-Commerce Sales Dashboard](Ecommerce_Dashboard.png)
