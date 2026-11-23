@@ -27,3 +27,7 @@ Project Files
 Project Objective
 
 To develop an interactive sales dashboard that presents business data in an easy-to-understand visual format.
+
+
+## Dashboard Preview
+![E-Commerce Sales Dashboard](Ecommerce_Dashboards.png)
